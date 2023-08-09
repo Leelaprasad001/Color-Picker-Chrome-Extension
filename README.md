@@ -1,6 +1,6 @@
 # Color-Picker-Chrome-Extension
 
-    The Color Picker Chrome Extension project is a simple and efficient tool that allows users to easily identify and extract the exact color value from any webpage. This lightweight extension integrates seamlessly with the Chrome browser, providing a user-friendly interface with a compact and intuitive design. By simply clicking on the extension icon, users can activate the color picker and hover over any element on the webpage to instantly retrieve the corresponding color code. With its minimalistic approach and quick functionality, the Color Picker Chrome Extension project aims to enhance web design and development workflows by providing an effortless means of capturing and utilizing color information.
+   The Color Picker Chrome Extension project is a simple and efficient tool that allows users to easily identify and extract the exact color value from any webpage. This lightweight extension integrates seamlessly with the Chrome browser, providing a user-friendly interface with a compact and intuitive design. By simply clicking on the extension icon, users can activate the color picker and hover over any element on the webpage to instantly retrieve the corresponding color code. With its minimalistic approach and quick functionality, the Color Picker Chrome Extension project aims to enhance web design and development workflows by providing an effortless means of capturing and utilizing color information.
 
 
     
